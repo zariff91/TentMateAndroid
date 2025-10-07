@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="wrap_content"
+        app:title="Cart"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv" android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:padding="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="16dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnChangeLocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change Location"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:paddingTop="6dp" android:gravity="center_vertical">
+            <ImageView android:src="@drawable/ic_location_pin" android:layout_width="18dp" android:layout_height="18dp" android:layout_marginEnd="8dp"/>
+            <TextView
+                android:id="@+id/txtAddress"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textStyle="italic"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:paddingTop="8dp">
+            <TextView android:text="Total" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+            <TextView android:id="@+id/txtTotal" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnCheckout"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Checkout" android:layout_marginTop="8dp"/>
+    </LinearLayout>
+</LinearLayout>

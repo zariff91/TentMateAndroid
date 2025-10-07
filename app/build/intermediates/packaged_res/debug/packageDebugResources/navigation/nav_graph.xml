@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment android:id="@+id/loginFragment"
+        android:name="com.example.tentmate.ui.LoginFragment"
+        android:label="Login">
+        <action
+            android:id="@+id/action_login_to_home"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+
+    <fragment android:id="@+id/homeFragment"
+        android:name="com.example.tentmate.ui.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_details"
+            app:destination="@id/detailsFragment" />
+        <action
+            android:id="@+id/action_home_to_cart"
+            app:destination="@id/cartFragment" />
+    </fragment>
+
+    <fragment android:id="@+id/detailsFragment"
+        android:name="com.example.tentmate.ui.DetailsFragment"
+        android:label="Details">
+        <argument android:name="productId" app:argType="string" />
+        <action
+            android:id="@+id/action_details_to_cart"
+            app:destination="@id/cartFragment" />
+    </fragment>
+
+    <fragment android:id="@+id/cartFragment"
+        android:name="com.example.tentmate.ui.CartFragment"
+        android:label="Cart">
+        <action
+            android:id="@+id/action_cart_to_location"
+            app:destination="@id/changeLocationFragment" />
+        <action
+            android:id="@+id/action_cart_to_payment"
+            app:destination="@id/paymentFragment" />
+    </fragment>
+
+    <fragment android:id="@+id/changeLocationFragment"
+        android:name="com.example.tentmate.ui.ChangeLocationFragment"
+        android:label="Change Location">
+        <action
+            android:id="@+id/action_location_back_to_cart"
+            app:destination="@id/cartFragment"
+            app:popUpTo="@id/cartFragment"
+            app:popUpToInclusive="false"/>
+    </fragment>
+
+    <fragment android:id="@+id/paymentFragment"
+        android:name="com.example.tentmate.ui.PaymentFragment"
+        android:label="Payment">
+        <action
+            android:id="@+id/action_payment_to_checkout"
+            app:destination="@id/checkoutFragment" />
+    </fragment>
+
+    <fragment android:id="@+id/checkoutFragment"
+        android:name="com.example.tentmate.ui.CheckoutFragment"
+        android:label="Checkout Confirm">
+        <action
+            android:id="@+id/action_checkout_to_home"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+</navigation>

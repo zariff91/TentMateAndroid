@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:scaleType="centerCrop"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingStart="12dp">
+
+        <TextView android:id="@+id/title" android:layout_height="wrap_content" android:layout_width="wrap_content"
+            android:text="Camping Tent"
+            style="@style/TextAppearance.Material3.TitleSmall"/>
+
+        <TextView android:id="@+id/days" android:layout_height="wrap_content" android:layout_width="wrap_content"
+            android:text="3 days"
+            style="@style/TextAppearance.Material3.BodySmall"/>
+
+        <TextView android:id="@+id/price" android:layout_height="wrap_content" android:layout_width="wrap_content"
+            android:text="RM 120"
+            style="@style/TextAppearance.Material3.BodyMedium"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:paddingHorizontal="6dp"
+        android:gravity="center"
+        android:background="@drawable/qty_bg">
+
+        <ImageButton
+            android:id="@+id/btnMinus"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_remove"/>
+
+        <TextView android:id="@+id/qty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:paddingHorizontal="8dp"/>
+
+        <ImageButton
+            android:id="@+id/btnPlus"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_add"/>
+    </LinearLayout>
+</LinearLayout>

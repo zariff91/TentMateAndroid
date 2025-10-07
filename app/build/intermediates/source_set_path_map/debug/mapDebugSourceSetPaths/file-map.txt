@@ -1,0 +1,50 @@
+com.example.tentmate.app-jetified-activity-ktx-1.8.0-0 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/02262e54e42cc01a57c049e8486d1e90/transformed/jetified-activity-ktx-1.8.0/res
+com.example.tentmate.app-navigation-common-ktx-2.8.0-1 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/1653aa7da05721b8b92081c5b13fb2e5/transformed/navigation-common-ktx-2.8.0/res
+com.example.tentmate.app-transition-1.5.0-2 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/1684fb581bcf88c48545b0681d9c5b60/transformed/transition-1.5.0/res
+com.example.tentmate.app-jetified-appcompat-resources-1.7.0-3 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/16b3b5e94fbd60dd353de7903c3c6940/transformed/jetified-appcompat-resources-1.7.0/res
+com.example.tentmate.app-core-runtime-2.2.0-4 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/199f3e1d5158aa80cf92eb76c4b87f36/transformed/core-runtime-2.2.0/res
+com.example.tentmate.app-material-1.12.0-5 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/1aab91965c18dbb7e9751bdfa7865926/transformed/material-1.12.0/res
+com.example.tentmate.app-navigation-runtime-2.8.0-6 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/1ab0ba9b0ed381753b190cc13d03c338/transformed/navigation-runtime-2.8.0/res
+com.example.tentmate.app-navigation-ui-2.8.0-7 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/1be6d2183997ebbf836af00e7cb5e87b/transformed/navigation-ui-2.8.0/res
+com.example.tentmate.app-jetified-viewpager2-1.0.0-8 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/22084862a540e6bc5d61700c52d26e32/transformed/jetified-viewpager2-1.0.0/res
+com.example.tentmate.app-navigation-runtime-ktx-2.8.0-9 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/257bf8de9dff8ea2019e95a5404bd4f6/transformed/navigation-runtime-ktx-2.8.0/res
+com.example.tentmate.app-jetified-savedstate-ktx-1.2.1-10 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/29d9ff270c86802af40dd2b9c3a2d0d9/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.tentmate.app-fragment-1.6.2-11 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/2c20dec27bc4c50df7c8d130058a8fde/transformed/fragment-1.6.2/res
+com.example.tentmate.app-jetified-lifecycle-livedata-core-ktx-2.7.0-12 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/3017dfa6f50841546f37a1309ddaf6d0/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.example.tentmate.app-jetified-annotation-experimental-1.4.1-13 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/3552e499164f8fad6f5ede3057d38a6b/transformed/jetified-annotation-experimental-1.4.1/res
+com.example.tentmate.app-jetified-window-1.0.0-14 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/5935a4caea6141a52652f9023c293f1d/transformed/jetified-window-1.0.0/res
+com.example.tentmate.app-lifecycle-livedata-2.7.0-15 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/5b8fc9ff6a007211a3dc2af1a9fbfde5/transformed/lifecycle-livedata-2.7.0/res
+com.example.tentmate.app-slidingpanelayout-1.2.0-16 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/69eed78da3391755219e02cd6640436e/transformed/slidingpanelayout-1.2.0/res
+com.example.tentmate.app-jetified-fragment-ktx-1.6.2-17 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/7ed832071f17b274fc7bc7bff9e40b32/transformed/jetified-fragment-ktx-1.6.2/res
+com.example.tentmate.app-jetified-lifecycle-runtime-ktx-2.7.0-18 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/8abf37b8dc2dcc4a0d94e2f4bc4423b4/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.example.tentmate.app-jetified-lifecycle-process-2.7.0-19 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/8daa6f995ebfc53f02b64ede22d6d9a1/transformed/jetified-lifecycle-process-2.7.0/res
+com.example.tentmate.app-jetified-startup-runtime-1.1.1-20 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/928bc1e025b4739fef273b056290a21b/transformed/jetified-startup-runtime-1.1.1/res
+com.example.tentmate.app-appcompat-1.7.0-21 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/99084e1455dedc63fbb82b595164e0c0/transformed/appcompat-1.7.0/res
+com.example.tentmate.app-jetified-savedstate-1.2.1-22 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/9a8065dde0c3b289f5f37490ec56c888/transformed/jetified-savedstate-1.2.1/res
+com.example.tentmate.app-jetified-core-ktx-1.13.1-23 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/9f89d57928bfcde49cdc61358957d172/transformed/jetified-core-ktx-1.13.1/res
+com.example.tentmate.app-jetified-emoji2-1.3.0-24 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/a158643c275d0ccfa76e6023ba35cb9e/transformed/jetified-emoji2-1.3.0/res
+com.example.tentmate.app-constraintlayout-2.0.1-25 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/a64bea50916beb5985151539dc3392f3/transformed/constraintlayout-2.0.1/res
+com.example.tentmate.app-navigation-common-2.8.0-26 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/aa3c0cfbf2f606e73b2336cee34de36d/transformed/navigation-common-2.8.0/res
+com.example.tentmate.app-coordinatorlayout-1.1.0-27 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/aa5182c325849ab8a28c9c4db8bc5db0/transformed/coordinatorlayout-1.1.0/res
+com.example.tentmate.app-navigation-fragment-ktx-2.8.0-28 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/b6023783b000117abed34ccba150db9d/transformed/navigation-fragment-ktx-2.8.0/res
+com.example.tentmate.app-navigation-ui-ktx-2.8.0-29 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/b834009305afc691e087abf9a1595ff7/transformed/navigation-ui-ktx-2.8.0/res
+com.example.tentmate.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-30 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/b8e9f486a360f012c18d51c82d56cc7c/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.example.tentmate.app-cardview-1.0.0-31 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/bc943ea88c42ff7690626e38880b1498/transformed/cardview-1.0.0/res
+com.example.tentmate.app-jetified-activity-1.8.0-32 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/bf67eb71bef9b7c903e12d9a609a44b1/transformed/jetified-activity-1.8.0/res
+com.example.tentmate.app-jetified-emoji2-views-helper-1.3.0-33 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/ca99fbedf3669b1c132ff37d62005d54/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.example.tentmate.app-core-1.13.1-34 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/cb797950d7d781f1241a23070c8753b6/transformed/core-1.13.1/res
+com.example.tentmate.app-jetified-coil-base-2.7.0-35 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/cd9a0263ea6a40eeb3daa24fadbbc06b/transformed/jetified-coil-base-2.7.0/res
+com.example.tentmate.app-lifecycle-viewmodel-2.7.0-36 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/ce224801fef6e781c35b2366e232a596/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.tentmate.app-recyclerview-1.1.0-37 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/d0d793aacbdbea1fd2692584d1d45295/transformed/recyclerview-1.1.0/res
+com.example.tentmate.app-lifecycle-runtime-2.7.0-38 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/d7982ebd4f760caddf653949805973ec/transformed/lifecycle-runtime-2.7.0/res
+com.example.tentmate.app-navigation-fragment-2.8.0-39 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/e458dce890eef539e9fde317ddb05443/transformed/navigation-fragment-2.8.0/res
+com.example.tentmate.app-jetified-lifecycle-viewmodel-ktx-2.7.0-40 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/ee027e72b25e219886dc6694320e7eda/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.example.tentmate.app-lifecycle-livedata-core-2.7.0-41 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/f4334bcc36708648670b27a0782e75a3/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.tentmate.app-jetified-profileinstaller-1.3.1-42 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/f5ecb0051ec249f4505359d0fe7d0a7e/transformed/jetified-profileinstaller-1.3.1/res
+com.example.tentmate.app-drawerlayout-1.1.1-43 /Users/zariff/.gradle/caches/9.0-milestone-1/transforms/fbcea4a88f942a712cd52746dfd79c17/transformed/drawerlayout-1.1.1/res
+com.example.tentmate.app-resValues-44 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/build/generated/res/resValues/debug
+com.example.tentmate.app-packageDebugResources-45 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.tentmate.app-packageDebugResources-46 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.tentmate.app-debug-47 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.tentmate.app-debug-48 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/src/debug/res
+com.example.tentmate.app-main-49 /Users/zariff/Downloads/TentMateXMLStarter_onboarding_login_fix1 (1)/app/src/main/res

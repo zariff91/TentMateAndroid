@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:padding="16dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        app:title="Payment Selection"/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/optCard"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" app:cardCornerRadius="12dp">
+        <LinearLayout android:padding="16dp" android:gravity="center_vertical"
+            android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/ic_credit_card" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginEnd="12dp"/>
+            <TextView android:text="Credit Card" style="@style/TextAppearance.Material3.TitleMedium" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/optCod"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" app:cardCornerRadius="12dp">
+        <LinearLayout android:padding="16dp" android:gravity="center_vertical"
+            android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:src="@drawable/ic_cash" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginEnd="12dp"/>
+            <TextView android:text="Cash on Delivery" style="@style/TextAppearance.Material3.TitleMedium" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <Space android:layout_width="1dp" android:layout_height="0dp" android:layout_weight="1"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnProceed"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Proceed"/>
+</LinearLayout>

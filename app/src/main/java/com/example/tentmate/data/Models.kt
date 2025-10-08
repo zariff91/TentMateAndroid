@@ -21,6 +21,16 @@ object Repo {
     val products = listOf(
         Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
             listOf("4-person","9' x 7'","Polyester","10 kg")),
+        Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
+            listOf("4-person","9' x 7'","Polyester","10 kg")),
+        Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
+            listOf("4-person","9' x 7'","Polyester","10 kg")),
+        Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
+            listOf("4-person","9' x 7'","Polyester","10 kg")),
+        Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
+            listOf("4-person","9' x 7'","Polyester","10 kg")),
+        Product("1","Camping Tent","Camping",40,R.drawable.camping_tent,
+            listOf("4-person","9' x 7'","Polyester","10 kg")),
         Product("2","Wedding Tent","Wedding",200,R.drawable.wedding_tent,
             listOf("40' x 90'","Polyester","100 kg"))
     )
